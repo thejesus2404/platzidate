@@ -1,6 +1,6 @@
 {
   "name": "@thejesus2404/platzidate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Una utilidad para manejar fechas en formato timestamp y long time.",
   "main": "src/index.js",
   "scripts": {
@@ -12,5 +12,8 @@
   ],
   "author": "Jesús Sierra <jesussierra615@gmail.com>",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "publishConfig": {
+    "access": "public"
+  }
 }
