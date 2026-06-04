@@ -1,6 +1,6 @@
 {
   "name": "@thejesus2404/platzidate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Una utilidad para manejar fechas en formato timestamp y long time.",
   "main": "src/index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "date",
     "nodejs"
   ],
+  "repository": {
+    "url": "https://github.com/thejesus2404/platzidate"
+  },
   "author": "Jesús Sierra <jesussierra615@gmail.com>",
   "license": "MIT",
   "type": "commonjs",
